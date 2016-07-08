@@ -1,0 +1,26 @@
+{
+  "name": "typescriptdemos",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hentaicracker/typescriptdemos.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "hentaicracker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hentaicracker/typescriptdemos/issues"
+  },
+  "homepage": "https://github.com/hentaicracker/typescriptdemos#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "typings": "^1.3.1"
+  }
+}
